@@ -7,6 +7,7 @@
     "start": "nodemon --exec babel-node src/index.js",
     "hoisting": "nodemon --exec babel-node src/hoisting.js",
     "scope": "nodemon --exec babel-node src/scope.js",
+    "context": "nodemon --exec babel-node src/context.js",
     "build": "babel src --out-dir dist",
     "serve": "node dist/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
