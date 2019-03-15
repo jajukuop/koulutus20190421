@@ -3,7 +3,8 @@
 // 1. --------------------------------------------------
 
 // ReferenceError: noSuchVariable is not defined
-console.log(noSuchVariable);
+console.log("This a test. You are good to go!");
+// console.log(noSuchVariable);
 
 
 // 2. --------------------------------------------------
